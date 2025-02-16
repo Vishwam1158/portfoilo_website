@@ -57505,7 +57505,7 @@ if(s!=null)s.CD($.a4I()[this.b].d)},
 $S:0}
 A.xL.prototype={}
 A.xA.prototype={
-L(a){return new A.j8("About","Your About Section",null)}}
+L(a){return new A.j8("About","Hi\nVishwam here,\nWork In progress\nsee you soon\ud83d\ude01",null)}}
 A.zp.prototype={
 L(a){return new A.j8("Experience","Your Experience Section",null)}}
 A.CX.prototype={
