@@ -148,7 +148,7 @@ List<AppModel> apps = [
 class AboutScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return ScreenTemplate(title: "About", content: "Your About Section");
+    return ScreenTemplate(title: "About", content: "Hi\nVishwam here,\nWork In progress\nsee you soon😁");
   }
 }
 
